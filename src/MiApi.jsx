@@ -30,7 +30,7 @@ const MiApi = () => {
     })
 
     const consumoApi = async () => {
-        const url = ""
+        const url = "https://raw.githubusercontent.com/osmarse/examenReact_OsvaldoMartinez/main/src/lista.json"
         try {
             let respuesta = await fetch(url)
             let nuevaData = await respuesta.json()

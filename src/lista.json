@@ -1,4 +1,4 @@
-const lista = [
+[
     {
         "id": 1,
         "nombre": "Rick Hunter",
@@ -36,5 +36,3 @@ const lista = [
         "foto": "https://64.media.tumblr.com/ee2f9c09d9c72d484442498cf502cb67/tumblr_ph0ietLWOY1wgv564o8_1280.png"
     }
 ]
-
-export default lista
