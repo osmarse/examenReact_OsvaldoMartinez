@@ -1,4 +1,4 @@
-REact 1 - Examen final - Consumo de API.
+React 1 - Examen final - Consumo de API.
 
 Osvaldo Martinez S. Año 2023
 
