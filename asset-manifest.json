@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/examenReact_OsvaldoMartinez/static/css/main.e6bec2d6.css",
+    "main.js": "/examenReact_OsvaldoMartinez/static/js/main.9868e7b0.js",
+    "static/media/logo.png": "/examenReact_OsvaldoMartinez/static/media/logo.9b22fe7e61a56df82e88.png",
+    "index.html": "/examenReact_OsvaldoMartinez/index.html",
+    "main.e6bec2d6.css.map": "/examenReact_OsvaldoMartinez/static/css/main.e6bec2d6.css.map",
+    "main.9868e7b0.js.map": "/examenReact_OsvaldoMartinez/static/js/main.9868e7b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6bec2d6.css",
+    "static/js/main.9868e7b0.js"
+  ]
+}
